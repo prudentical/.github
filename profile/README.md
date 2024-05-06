@@ -6,4 +6,4 @@ Prudentical is automated trading application with focus on providing common bot-
 > Prudentical is currently under development.
 
 ## Architecture
-![Architecture](../docs/architecture.drawio.svg)  
+![Architecture](docs/architecture.drawio.svg)  
